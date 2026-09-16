@@ -1,3 +1,7 @@
+# Parcours français
+
+Ce dépôt propose un parcours documentaire en français consacré à l’architecture de Whirlpools, ses comptes Solana, ses bins de liquidité, ses échanges et ses mécanismes de frais. Voir [le sommaire](docs/fr/README.md).
+
 # Whirlpools
 
 Whirlpools is an open-source concentrated liquidity AMM contract on the Solana blockchain.
